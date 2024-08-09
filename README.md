@@ -1,10 +1,13 @@
 # moodle
 Moodle - Sistema de gestión de cursos - Docker compose
 
-Ver en "localhost:8200"
+Ver en 
+http://IP_HOST_ANFITRION
 
-Usuario: usuario
+Usuario: user
 
-Password: usuario@1
+Password: bitnami
+
+Mas información: https://github.com/bitnami/containers/tree/main/bitnami/moodle
 
 
