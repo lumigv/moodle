@@ -5,7 +5,8 @@ Ver en
 http://IP_HOST_ANFITRION
 https://IP_HOST_ANFITRION
 
-Usuario: user
+Usuario: user  
+
 Password: bitnami
 
 Mas información: 
